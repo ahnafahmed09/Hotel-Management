@@ -11,6 +11,9 @@ int main(void)
    printf("Press any key to continue...");
    getch();
    login();
+   room_diagram();
+   room();
+   splash_screen2();
 
     return 0;
 }
