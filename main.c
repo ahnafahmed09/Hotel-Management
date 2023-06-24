@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "splash_screen.h"
+#include "splash_screen2.h"
 #include "login.h"
+#include "room1.h"
+#include "room.h"
 
 int main(void)
 {
